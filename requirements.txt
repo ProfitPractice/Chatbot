@@ -1,0 +1,4 @@
+together>=0.2.5
+gradio==3.50.2
+Pillow>=10.2.0
+requests>=2.31.0 
